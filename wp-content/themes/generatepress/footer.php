@@ -60,6 +60,5 @@ do_action( 'generate_after_footer' );
 
 wp_footer();
 ?>
-
 </body>
 </html>
